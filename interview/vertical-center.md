@@ -1,11 +1,10 @@
-[原文地址]: [https://mp.weixin.qq.com/s/JL-9juZgbpz_Cnp6FnLVAQ]
+[原文地址](https://mp.weixin.qq.com/s/JL-9juZgbpz_Cnp6FnLVAQ)
 
 # 垂直居中
 
 1. line-height
 
 *单行文字垂直居中技巧*
-
 ```
 <div class="content">Lorem ipsam.</div>
 .content{
