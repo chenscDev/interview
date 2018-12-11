@@ -5,16 +5,19 @@ DOCTYPE是做什么用的?
 
 # CSS基础
 
-### 实现垂直居中的几种方式?;
+### 实现垂直居中的几种方式?
+
+[垂直居中](https://github.com/chenscDev/interview/blob/master/interview/vertical-center.md)
+
 ### 左边固定宽度右边自适应?
 ### 分别在左右两侧显示div的几种方式?
 ### Css九宫格实现?
 ### 写一个循环播放的动画?
 
 ## 盒模型的理解?
-
-### 两种:一种是标准盒模型,一种是ie盒模型
+ 
 ```
+  两种: 一种是标准盒模型,一种是ie盒模型
   /* 标准模型 */
   box-sizing:content-box;
   标准模型中，盒模型的宽高只是内容（content）的宽高
